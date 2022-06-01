@@ -1,0 +1,129 @@
+/* Sets the default site cursor to the Gauntlet */
+/* Change this to any .cur to set the default cursor */
+
+* {
+cursor: url(../cur/gauntlet.cur),auto;
+}
+
+/* Active Gauntlet on all links by default */
+
+.demo {
+font-size: 14px;
+font-family: Arial;
+text-align: center;
+margin-top: 10%;
+}
+
+a {
+font-size:14px;
+font-weight: 800;
+}
+
+a:hover {
+cursor: url(../cur/gauntlet_active.cur),auto;
+}
+
+/* Active Gauntlet cursor on Hover */
+.gauntlet-active:hover {
+cursor: url(../cur/gauntlet_active.cur),auto;
+}
+
+/* Gear cursor on Hover */
+.gear-cursor:hover {
+cursor: url(../cur/gear_on.cur),auto;
+}
+
+/* Active Gear cursor on Click */
+.gear-cursor:active {
+cursor: url(../cur/gear_active.cur),auto;
+}
+
+/* Active Gear cursor on Hover */
+.gear-active-cursor {
+cursor: url(../cur/gear_active.cur),auto;
+}
+
+/* Flightpath cursor on Hover */
+.flightpath-cursor:hover {
+cursor: url(../cur/flightpath.cur),auto;
+}
+
+/* Hearth cursor on Hover */
+.hearth-cursor:hover {
+cursor: url(../cur/hearth.cur),auto;
+}
+
+/* Inspect On cursor on Hover */
+.inspect-on-cursor:hover {
+cursor: url(../cur/inspect_on.cur),auto;
+}
+
+/* Inspect Off cursor on Hover */
+.inspect-off-cursor:hover {
+cursor: url(../cur/inspect_off.cur),auto;
+}
+
+/* Mount cursor on Hover */
+.mount-cursor:hover {
+cursor: url(../cur/mount.cur),auto;
+}
+
+/* Pet Capturable cursor on Hover */
+.pet-capturable-cursor:hover {
+cursor: url(../cur/pet_capturable.cur),auto;
+}
+
+/* Pet Legendary cursor on Hover */
+.pet-legendary-cursor:hover {
+cursor: url(../cur/pet_legendary.cur),auto;
+}
+
+/* Pet Off cursor on Hover */
+.pet-off-cursor:hover {
+cursor: url(../cur/pet_off.cur),auto;
+}
+
+/* Quest On cursor on Hover */
+.quest-on-cursor:hover {
+cursor: url(../cur/quest_on.cur),auto;
+}
+
+/* Repeatable Quest cursor on Hover */
+.repeatable-cursor:hover {
+cursor: url(../cur/repeatable.cur),auto;
+}
+
+/* Talk cursor on Hover */
+.talk-cursor:hover {
+cursor: url(../cur/talk.cur),auto;
+}
+
+/* Trainer cursor on Hover */
+.trainer-cursor:hover {
+cursor: url(../cur/trainer.cur),auto;
+}
+
+/* Transmogrify cursor on Hover */
+.transmog-cursor:hover {
+cursor: url(../cur/transmogrify.cur),auto;
+}
+
+/* Void Storage cursor on Hover */
+.void-storage-cursor:hover {
+cursor: url(../cur/void_storage.cur),auto;
+}
+
+/* World Order On cursor on Hover */
+.world-order-on-cursor:hover {
+cursor: url(../cur/worldorder_on.cur),auto;
+}
+
+/* World Order Off cursor on Hover */
+.world-order-off-cursor:hover {
+cursor: url(../cur/worldorder_off.cur),auto;
+}
+
+/* Wrench cursor on Hover */
+.wrench-cursor:hover {
+cursor: url(../cur/wrench.cur),auto;
+}
