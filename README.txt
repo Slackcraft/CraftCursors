@@ -26,3 +26,11 @@ What you can't use them for:
 Cursor images are Copyright © Blizzard Entertainment and you should use these in accordance with fair-use and fansite usage policies as dictated by the copyright holder.
 
 Original coding in this project is Copyright © Slackcraft.org
+
+===================================
+
+Coming Soon:
+• All available Warcraft cursors
+• PNG Assets for all available cursors
+• Active states for all cursors
+And more!
