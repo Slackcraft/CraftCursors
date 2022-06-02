@@ -1,6 +1,6 @@
 CraftCursors V1.0
 Warcraft Cursors for Web
-Copyright © Slackcraft.org - 2022
+by Slackcraft.org
 
 ===================================
 ===================================
