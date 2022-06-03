@@ -1,6 +1,6 @@
 CraftCursors V1.0
 Warcraft Cursors for Web
-by Slackcraft.org
+Copyright © Slackcraft.org - 2022
 
 ===================================
 ===================================
@@ -13,6 +13,10 @@ Using CraftCursors:
 - Use the included CSS classes and examples to add the cursors to your website
 - You can add any cursor using the following CSS:
 	cursor: url(../cur/curser_name.cur),auto;
+
+Cursors can be added to links, images, span tags and more. You can adjust the default cursor by replacing the url to any of the available cursors.
+
+Alternatively, include the craftcursors_w3_<race>.css files in assets, to enable default/click cursors from Warcraft 3.
 
 What you can use them for:
 - Your personal website, or blog

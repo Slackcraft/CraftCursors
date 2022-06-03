@@ -1,3 +1,5 @@
+/* DEFAULT WOW GAUNTLET */
+
 /* Sets the default site cursor to the Gauntlet */
 /* Change this to any .cur to set the default cursor */
 
@@ -7,16 +9,10 @@ cursor: url(../cur/gauntlet.cur),auto;
 
 /* Active Gauntlet on all links by default */
 
-.demo {
-font-size: 14px;
-font-family: Arial;
-text-align: center;
-margin-top: 10%;
-}
-
 a {
 font-size:14px;
 font-weight: 800;
+color: #fa9f42;
 }
 
 a:hover {
@@ -28,6 +24,12 @@ cursor: url(../cur/gauntlet_active.cur),auto;
 cursor: url(../cur/gauntlet_active.cur),auto;
 }
 
+/* Active Gauntlet cursor on Click */
+.gauntlet-active:active {
+cursor: url(../cur/gauntlet_active.cur),auto;
+}
+
+/* GEAR */
 /* Gear cursor on Hover */
 .gear-cursor:hover {
 cursor: url(../cur/gear_on.cur),auto;
@@ -39,20 +41,52 @@ cursor: url(../cur/gear_active.cur),auto;
 }
 
 /* Active Gear cursor on Hover */
-.gear-active-cursor {
+.gear-active:hover {
 cursor: url(../cur/gear_active.cur),auto;
 }
 
+
+/* BAG */
+/* Bag cursor on Hover */
+.bag-cursor:hover {
+cursor: url(../cur/bag_on.cur),auto;
+}
+
+/* Bag Off cursor on Hover */
+.bag-off-cursor:hover {
+cursor: url(../cur/bag_off.cur),auto;
+}
+
+
+/* FISHING */
+/* Fishing On cursor on Hover */
+.fishing-cursor:hover {
+cursor: url(../cur/fishing_on.cur),auto;
+}
+
+/* Fishing Off cursor on Hover */
+.fishing-off-cursor:hover {
+cursor: url(../cur/fishing_off.cur),auto;
+}
+
+/* FLIGHTPATH */
 /* Flightpath cursor on Hover */
 .flightpath-cursor:hover {
 cursor: url(../cur/flightpath.cur),auto;
 }
 
+/* Off Flightpath cursor on Hover */
+.flightpath-cursor:hover {
+cursor: url(../cur/flightpath.cur),auto;
+}
+
+/* HEARTHSTONE */
 /* Hearth cursor on Hover */
 .hearth-cursor:hover {
 cursor: url(../cur/hearth.cur),auto;
 }
 
+/* INSPECT/ZOOM */
 /* Inspect On cursor on Hover */
 .inspect-on-cursor:hover {
 cursor: url(../cur/inspect_on.cur),auto;
@@ -63,56 +97,94 @@ cursor: url(../cur/inspect_on.cur),auto;
 cursor: url(../cur/inspect_off.cur),auto;
 }
 
+/* MAIL */
+/* Mail cursor on Hover */
+.mail-on-cursor:hover {
+cursor: url(../cur/mail_on.cur),auto;
+}
+
+/* Mail Off cursor on Hover */
+.mail-off-cursor:hover {
+cursor: url(../cur/mail_off.cur),auto;
+}
+
+/* MOUNT */
 /* Mount cursor on Hover */
 .mount-cursor:hover {
 cursor: url(../cur/mount.cur),auto;
 }
 
+/* BPET CAPTURABLE */
 /* Pet Capturable cursor on Hover */
 .pet-capturable-cursor:hover {
 cursor: url(../cur/pet_capturable.cur),auto;
 }
 
+/* BPET LEGENDARY */
 /* Pet Legendary cursor on Hover */
 .pet-legendary-cursor:hover {
 cursor: url(../cur/pet_legendary.cur),auto;
 }
 
+/* BPET OFF */
 /* Pet Off cursor on Hover */
 .pet-off-cursor:hover {
 cursor: url(../cur/pet_off.cur),auto;
 }
 
+/* QUEST */
 /* Quest On cursor on Hover */
 .quest-on-cursor:hover {
 cursor: url(../cur/quest_on.cur),auto;
 }
 
+/* REFORGE */
+/* Reforge cursor on Hover */
+.reforge-cursor:hover {
+cursor: url(../cur/reforge.cur),auto;
+}
+
+/* REPEATABLE QUEST */
 /* Repeatable Quest cursor on Hover */
 .repeatable-cursor:hover {
 cursor: url(../cur/repeatable.cur),auto;
 }
 
+/* SWORD */
+/* Sword cursor on Hover */
+.sword-cursor:hover {
+cursor: url(../cur/sword_on.cur),auto;
+}
+
+/* Sword Off cursor on Hover */
+.sword-off-cursor:hover {
+cursor: url(../cur/sword_off.cur),auto;
+}
+
+/* TALK */
 /* Talk cursor on Hover */
 .talk-cursor:hover {
 cursor: url(../cur/talk.cur),auto;
 }
 
+/* TRAINER */
 /* Trainer cursor on Hover */
 .trainer-cursor:hover {
 cursor: url(../cur/trainer.cur),auto;
 }
 
-/* Transmogrify cursor on Hover */
-.transmog-cursor:hover {
-cursor: url(../cur/transmogrify.cur),auto;
+/* Trainer Off cursor on Hover */
+.trainer-off-cursor:hover {
+cursor: url(../cur/trainer_off.cur),auto;
 }
 
+/* VOID STORAGE */
 /* Void Storage cursor on Hover */
 .void-storage-cursor:hover {
 cursor: url(../cur/void_storage.cur),auto;
 }
 
+/* WORLD ORDER */
 /* World Order On cursor on Hover */
 .world-order-on-cursor:hover {
 cursor: url(../cur/worldorder_on.cur),auto;
@@ -123,7 +195,29 @@ cursor: url(../cur/worldorder_on.cur),auto;
 cursor: url(../cur/worldorder_off.cur),auto;
 }
 
+/* WRENCH */
 /* Wrench cursor on Hover */
 .wrench-cursor:hover {
 cursor: url(../cur/wrench.cur),auto;
+}
+
+/* Wrench Off cursor on Hover */
+.wrench-off-cursor:hover {
+cursor: url(../cur/wrench_off.cur),auto;
+}
+
+
+
+/* STYLING FOR DEMO PAGE, IGNORE/DELETE */
+
+body {
+background-color: #0f0e15;
+}
+
+.demo {
+font-size: 14px;
+font-family: Arial;
+color: #fff;
+text-align: center;
+margin-top: 10%;
 }

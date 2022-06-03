@@ -1,0 +1,14 @@
+/* ORC */
+/* Orc Cursor Default/Click */
+
+* {
+cursor: url(../cur/w3_orc.cur),auto;
+}
+
+.a:active {
+cursor: url(../cur/w3_orc_click.cur),auto;
+}
+
+.orc-click {
+cursor: url(../cur/w3_orc_click.cur),auto;
+}
