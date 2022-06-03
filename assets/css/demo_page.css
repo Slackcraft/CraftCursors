@@ -1,0 +1,19 @@
+/* STYLING FOR DEMO PAGE, IGNORE/DELETE */
+
+body {
+background-color: #0f0e15;
+}
+
+.craftcursors-description {
+font-size: 14px;
+font-family: Arial;
+color: #fff;
+text-align: center;
+margin-top: 10%;
+}
+
+a {
+font-size:14px;
+font-weight: 800;
+color: #fa9f42;
+}

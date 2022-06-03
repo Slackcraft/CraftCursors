@@ -1,23 +1,4 @@
-/* DEFAULT WOW GAUNTLET */
-
-/* Sets the default site cursor to the Gauntlet */
-/* Change this to any .cur to set the default cursor */
-
-* {
-cursor: url(../cur/gauntlet.cur),auto;
-}
-
-/* Active Gauntlet on all links by default */
-
-a {
-font-size:14px;
-font-weight: 800;
-color: #fa9f42;
-}
-
-a:hover {
-cursor: url(../cur/gauntlet_active.cur),auto;
-}
+*/
 
 /* Active Gauntlet cursor on Hover */
 .gauntlet-active:hover {
@@ -204,20 +185,4 @@ cursor: url(../cur/wrench.cur),auto;
 /* Wrench Off cursor on Hover */
 .wrench-off-cursor:hover {
 cursor: url(../cur/wrench_off.cur),auto;
-}
-
-
-
-/* STYLING FOR DEMO PAGE, IGNORE/DELETE */
-
-body {
-background-color: #0f0e15;
-}
-
-.craftcursors-description {
-font-size: 14px;
-font-family: Arial;
-color: #fff;
-text-align: center;
-margin-top: 10%;
 }
