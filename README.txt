@@ -1,4 +1,4 @@
-CraftCursors V1.1
+CraftCursors V1.2
 Warcraft Cursors for Web
 Copyright © Slackcraft.org - 2022
 
