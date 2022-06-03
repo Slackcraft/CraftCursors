@@ -1,4 +1,4 @@
-CraftCursors V1.0
+CraftCursors V1.1
 Warcraft Cursors for Web
 Copyright © Slackcraft.org - 2022
 
@@ -9,6 +9,15 @@ About:
 CraftCursors is a free pack that allows you to use the official World of Warcraft cursors on your website, or desktop.
 
 Using CraftCursors:
+
+Quick Install:
+Add:
+
+<link href="https://cdn.jsdelivr.net/gh/Slackcraft/CraftCursors@latest/assets/css/craftcursors.css" rel="stylesheet">
+
+to your website's head section, and off you go!
+
+Manual Install:
 - Add the assets to your website directory
 - Use the included CSS classes and examples to add the cursors to your website
 - You can add any cursor using the following CSS:
