@@ -17,7 +17,7 @@ CraftCursors is a free pack that allows you to use the official World of Warcraf
 
 Cursors can be added to links, images, span tags and more. You can adjust the default cursor by replacing the url to any of the available cursors.
 
-Alternatively, include the craftcursors_w3_<race>.css files in assets, to enable default/click cursors from Warcraft 3.
+Alternatively, include the craftcursors_w3_[race_name].css files in assets, to enable default/click cursors from Warcraft 3.
 
 ### What you can use them for:
 - Your personal website, or blog
