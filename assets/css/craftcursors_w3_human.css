@@ -4,13 +4,13 @@
 /* Human Cursor Default/Click */
 
 * {
-cursor: url(../cur/w3_human.cur),auto;
+	cursor: url(../cur/w3_human.cur),auto;
 }
 
 .a:active {
-cursor: url(../cur/w3_human_click.cur),auto;
+	cursor: url(../cur/w3_human_click.cur),auto;
 }
 
 .human-click {
-cursor: url(../cur/w3_human_click.cur),auto;
+	cursor: url(../cur/w3_human_click.cur),auto;
 }

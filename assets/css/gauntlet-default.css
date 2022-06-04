@@ -1,12 +1,12 @@
 /* DEFAULT WOW GAUNTLET */
 
 /* Sets the default site cursor to the Gauntlet */
-/* Change this to any .cur to set the default cursor
+/* Change this to any .cur to set the default cursor */
 
 * {
-cursor: url(../cur/gauntlet.cur),auto;
+	cursor: url(../cur/gauntlet.cur),auto;
 }
 
 a:hover {
-cursor: url(../cur/gauntlet_active.cur),auto;
+	cursor: url(../cur/gauntlet_active.cur),auto;
 }

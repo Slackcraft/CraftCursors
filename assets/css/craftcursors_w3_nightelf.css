@@ -2,13 +2,13 @@
 /* Nightelf Cursor Default/Click */
 
 * {
-cursor: url(../cur/w3_nightelf.cur),auto;
+	cursor: url(../cur/w3_nightelf.cur),auto;
 }
 
 .a:active {
-cursor: url(../cur/w3_nightelf_click.cur),auto;
+	cursor: url(../cur/w3_nightelf_click.cur),auto;
 }
 
 .nightelf-click {
-cursor: url(../cur/w3_nightelf_click.cur),auto;
+	cursor: url(../cur/w3_nightelf_click.cur),auto;
 }
