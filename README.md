@@ -7,7 +7,7 @@ CraftCursors is a free pack that allows you to use the official World of Warcraf
 
 ### Quick Install:
 1. Visit [CraftCursors on Slackcraft.org](https://www.slackcraft.org/download-craftcursors)
-2. Copy the desired include code(s) into your website <head> section
+2. Copy the desired include code(s) into your website Head section
 3. Add the desired classes to your website style
 
 ### Manual Install:
@@ -32,5 +32,5 @@ Cursor images are Copyright © Blizzard Entertainment and you should use these i
 
 Original coding in this project is Copyright © Slackcraft.org
 
-# CraftCursors V1.2 - Warcraft Cursors for Web
+# CraftCursors V1.3.0 - Warcraft Cursors for Web
 by Slackcraft.org
