@@ -6,17 +6,14 @@ CraftCursors is a free pack that allows you to use the official World of Warcraf
 ### Using CraftCursors:
 
 ### Quick Install:
-Add:
-
-<link href="https://cdn.jsdelivr.net/gh/Slackcraft/CraftCursors@latest/assets/css/craftcursors.css" rel="stylesheet">
-
-to your website's head section, and off you go!
+1. Visit [CraftCursors on Slackcraft.org](https://www.slackcraft.org/download-craftcursors)
+2. Copy the desired include code(s) into your website <head> section
+3. Add the desired classes to your website style
 
 ### Manual Install:
 - Add the assets to your website directory
 - Use the included CSS classes and examples to add the cursors to your website
-- You can add any cursor using the following CSS:
-	cursor: url(../cur/curser_name.cur),auto;
+- Use .SCSS files if desired
 
 Cursors can be added to links, images, span tags and more. You can adjust the default cursor by replacing the url to any of the available cursors.
 
@@ -37,5 +34,3 @@ Original coding in this project is Copyright © Slackcraft.org
 
 # CraftCursors V1.2 - Warcraft Cursors for Web
 by Slackcraft.org
-
-* 
