@@ -1,0 +1,161 @@
+*/ {
+	.gauntlet-active {
+		&:hover {
+			cursor: url(../cur/gauntlet_active.cur),auto;
+		}
+	}
+}
+.gauntlet-active {
+	&:active {
+		cursor: url(../cur/gauntlet_active.cur),auto;
+	}
+}
+.gear-cursor {
+	&:hover {
+		cursor: url(../cur/gear_on.cur),auto;
+	}
+	&:active {
+		cursor: url(../cur/gear_active.cur),auto;
+	}
+}
+.gear-active {
+	&:hover {
+		cursor: url(../cur/gear_active.cur),auto;
+	}
+}
+.bag-cursor {
+	&:hover {
+		cursor: url(../cur/bag_on.cur),auto;
+	}
+}
+.bag-off-cursor {
+	&:hover {
+		cursor: url(../cur/bag_off.cur),auto;
+	}
+}
+.fishing-cursor {
+	&:hover {
+		cursor: url(../cur/fishing_on.cur),auto;
+	}
+}
+.fishing-off-cursor {
+	&:hover {
+		cursor: url(../cur/fishing_off.cur),auto;
+	}
+}
+.flightpath-cursor {
+	&:hover {
+		cursor: url(../cur/flightpath.cur),auto;
+		cursor: url(../cur/flightpath.cur),auto;
+	}
+}
+.hearth-cursor {
+	&:hover {
+		cursor: url(../cur/hearth.cur),auto;
+	}
+}
+.inspect-on-cursor {
+	&:hover {
+		cursor: url(../cur/inspect_on.cur),auto;
+	}
+}
+.inspect-off-cursor {
+	&:hover {
+		cursor: url(../cur/inspect_off.cur),auto;
+	}
+}
+.mail-on-cursor {
+	&:hover {
+		cursor: url(../cur/mail_on.cur),auto;
+	}
+}
+.mail-off-cursor {
+	&:hover {
+		cursor: url(../cur/mail_off.cur),auto;
+	}
+}
+.mount-cursor {
+	&:hover {
+		cursor: url(../cur/mount.cur),auto;
+	}
+}
+.pet-capturable-cursor {
+	&:hover {
+		cursor: url(../cur/pet_capturable.cur),auto;
+	}
+}
+.pet-legendary-cursor {
+	&:hover {
+		cursor: url(../cur/pet_legendary.cur),auto;
+	}
+}
+.pet-off-cursor {
+	&:hover {
+		cursor: url(../cur/pet_off.cur),auto;
+	}
+}
+.quest-on-cursor {
+	&:hover {
+		cursor: url(../cur/quest_on.cur),auto;
+	}
+}
+.reforge-cursor {
+	&:hover {
+		cursor: url(../cur/reforge.cur),auto;
+	}
+}
+.repeatable-cursor {
+	&:hover {
+		cursor: url(../cur/repeatable.cur),auto;
+	}
+}
+.sword-cursor {
+	&:hover {
+		cursor: url(../cur/sword_on.cur),auto;
+	}
+}
+.sword-off-cursor {
+	&:hover {
+		cursor: url(../cur/sword_off.cur),auto;
+	}
+}
+.talk-cursor {
+	&:hover {
+		cursor: url(../cur/talk.cur),auto;
+	}
+}
+.trainer-cursor {
+	&:hover {
+		cursor: url(../cur/trainer.cur),auto;
+	}
+}
+.trainer-off-cursor {
+	&:hover {
+		cursor: url(../cur/trainer_off.cur),auto;
+	}
+}
+.void-storage-cursor {
+	&:hover {
+		cursor: url(../cur/void_storage.cur),auto;
+	}
+}
+.world-order-on-cursor {
+	&:hover {
+		cursor: url(../cur/worldorder_on.cur),auto;
+	}
+}
+.world-order-off-cursor {
+	&:hover {
+		cursor: url(../cur/worldorder_off.cur),auto;
+	}
+}
+.wrench-cursor {
+	&:hover {
+		cursor: url(../cur/wrench.cur),auto;
+	}
+}
+.wrench-off-cursor {
+	&:hover {
+		cursor: url(../cur/wrench_off.cur),auto;
+	}
+}

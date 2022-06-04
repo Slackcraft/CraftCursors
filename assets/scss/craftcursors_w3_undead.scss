@@ -1,0 +1,14 @@
+
+/* UNDEAD */
+/* Undead Cursor Default/Click */
+* {
+	cursor: url(../cur/w3_undead.cur),auto;
+}
+.a {
+	&:active {
+		cursor: url(../cur/w3_undead_click.cur),auto;
+	}
+}
+.undead-click {
+	cursor: url(../cur/w3_human_click.cur),auto;
+}
