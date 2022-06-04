@@ -1,7 +1,7 @@
 # CraftCursors - Warcraft Web Cursors
 
 ### About:
-CraftCursors is a free pack that allows you to use the official World of Warcraft cursors on your website, or desktop.
+CraftCursors is a free pack that allows you to use the official World of Warcraft cursors on your website.
 
 ### Using CraftCursors:
 
